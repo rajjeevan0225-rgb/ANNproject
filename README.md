@@ -2,6 +2,12 @@
 
 This project contains basic implementations of Artificial Neural Networks using Python.
 
+## Author
+Jeevan Raj R
+Goutham Shetty
+Kiran Kumar LV
+Mohammad Salman Farish
+
 ## Projects
 
 - **Perceptron**
@@ -19,5 +25,4 @@ Python, NumPy, Matplotlib, Scikit-learn, TensorFlow
 ## Outcome
 The models were able to learn patterns from the data and produce correct outputs.
 
-## Author
-Team Project
+
